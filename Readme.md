@@ -10,6 +10,11 @@ Intended Contents
 * Web browser (firefox)
 * Assorted network tools (rsync, nmap, ...)
 
+Current Contents
+----------------
+* See Dockerfile :)
+
+
 Acknowledgements
 ----------------
 This container inspired by docker-desktop (https://github.com/rogaha/docker-desktop)
